@@ -21,5 +21,5 @@ It serves as an essential resource for those aiming to precisely compute and vis
 
 2. Clone or download this repository to your local machine.
 
-Acknowledgments
+## Acknowledgments
 Happy exploring and analyzing quantum entanglement with partially entangled pairs!
