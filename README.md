@@ -17,9 +17,9 @@ It serves as an essential resource for those aiming to precisely compute and vis
 - **Educational Resource:** An invaluable educational resource for students and quantum enthusiasts, facilitating hands-on learning about quantum entanglement and its applications.
 
 ## Getting Started
-Ensure you have Jupyter Notebook installed on your system. If not, you can either easily run it on Google CoLab, or install Jupyter Notebook via [Jupyter's installation guide](https://jupyter.org/install). 
+1. Ensure you have Jupyter Notebook installed on your system. If not, you can either easily run it on Google CoLab, or install Jupyter Notebook via [Jupyter's installation guide](https://jupyter.org/install). 
 
-Clone or download this repository to your local machine.
+2. Clone or download this repository to your local machine.
 
 Acknowledgments
-Happy exploring and analyzing quantum entanglement with EPR pairs!
+Happy exploring and analyzing quantum entanglement with partially entangled pairs!
